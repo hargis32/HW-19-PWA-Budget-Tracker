@@ -18,7 +18,7 @@ In order to install the app locally, first run "npm i" in the command line inter
 ## Usage
 
 
-![Preview](https://raw.githubusercontent.com/hargis32/HW-18-NoSql-Workout-Track/main/assets/images/screenshot.png)
+![Preview](https://raw.githubusercontent.com/hargis32/HW-19-PWA-Budget-Tracker/main/public/assets/images/2022-02-21%20(2).png)
 
 [Heroku Deploy](https://glacial-journey-13701.herokuapp.com/)
   
